@@ -5,7 +5,7 @@
 @import './base/container.scss';
 @import './base/section.scss';
 @import './utils/visually-hidden.scss';
-@import './components/titel.scss';
+@import './base/titel';
 @import './components/logo.scss';
 @import './components/page-header';
 @import './components/nav.scss';
@@ -18,5 +18,5 @@
 @import './components/footer.scss';
 @import './components/filter.scss';
 @import './components/portfolio.scss';
-@import './utils/backdrop.scss';
+@import './components/backdrop';
 @import './components/modal.scss';
